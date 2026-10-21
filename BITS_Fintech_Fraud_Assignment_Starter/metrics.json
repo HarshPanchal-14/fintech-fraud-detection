@@ -1,0 +1,11 @@
+{
+  "records_loaded": 20000,
+  "train_rows": 16109,
+  "test_rows": 3891,
+  "roc_auc": 0.7387137937142882,
+  "accuracy": 0.9313801079414032,
+  "weighted_precision": 0.9071918095300107,
+  "weighted_recall": 0.9313801079414031,
+  "f1": 0.9000097228474937,
+  "note": "Synthetic rule-generated labels; metrics demonstrate pipeline behavior, not production fraud performance."
+}
